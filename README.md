@@ -17,6 +17,6 @@ con Algoritmos y Estructuras de Datos...
 
 ---
 ### Foto:  
-![Foto Valentina](C:\Users\Usuario\OneDrive\Documentos\UTN\PdeP\fotomia.jpg)
+![Foto Valentina](fotomia.jpg)
 
 
