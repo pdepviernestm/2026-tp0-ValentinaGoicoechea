@@ -10,12 +10,13 @@ con Algoritmos y Estructuras de Datos...
 
 ---
 ### Otros datos sobre mi:  
-- Tengo un gato llamado Kiwi  
-- Me gusta jugar en la computadora (Principalmente al Minecraft)  
-- Soy de Lanús y voy a la cancha (Aunque no tan seguido)  
-- Mi pelicula favorita es Interestelar  
+- Tengo un gato llamado **Kiwi**  
+- Me gusta jugar en la computadora (Principalmente al **Minecraft**)  
+- Soy de **Lanús** y voy a la cancha (Aunque no tan seguido)   
+- Mi superheroe favorito es **Spiderman**  
 
 ---
 ### Foto:  
+![Foto Valentina]("C:\Users\Usuario\OneDrive\Documentos\UTN\PdeP\fotomia.jpg")
 
 
