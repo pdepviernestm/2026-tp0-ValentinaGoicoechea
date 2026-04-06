@@ -15,6 +15,16 @@ Me inscribí en esta carrera principalmente porque me interesa mucho el mundo de
 
 ---
 ### Foto:  
-![Foto Valentina](fotomia.jpg)
+![Foto Valentina](https://github.com/user-attachments/assets/5fc7855c-07e3-41cf-bfc7-2aa404af344a)
+
+---
+### Fotos de Kiwi:
+- Foto de Kiwi graciosa:
+![Foto de Kiwi Graciosa](https://github.com/user-attachments/assets/85bbff74-bf81-4cbe-9e59-8722401ad332)
+
+- Foto de Kiwi tierna:
+![Foto de Kiwi Tierna](https://github.com/user-attachments/assets/bb7828df-3ed9-48a1-aa87-6b6147f512fd)
+
+
 
 
